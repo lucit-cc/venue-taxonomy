@@ -14,7 +14,6 @@ Written Specification
   * [v1.1 JSON](./specification/specification.json) 
 
 Resources
-
 * PlaceExchange has contributed a mapping between v1.1 and the [DMI Taxonomy](./DMI%20to%20OpenOOH%201.1%20Mapping.csv)
 * Lucit has contributed a [JSON version](./specification.json) of the spec (which may become the formal reference in the future)
 
